@@ -18,7 +18,13 @@
   <img src="https://travis-ci.org/labofoz/handsfree.js.svg?branch=master">
   <img src="https://img.shields.io/codecov/c/github/labofoz/handsfree.js/master.svg?style=flat">
 </p>
+<p>
+<img src="https://opencollective.com/handsfreejs/backers/badge.svg)?style=flat">
+<img src="https://opencollective.com/handsfreejs/sponsors/badge.svg)?style=flat">
+</p>
 </div>
+
+
 
 ## License
 > Please read the EULA ([eula.txt](eula.txt)) carefully before using Handsfree.js, which depends on [BRFv4](https://www.beyond-reality-face.com/). Once you decide to use handsfree.js commercially, you will need a separate license agreement from them that you must agree to. You can try handsfree.js free of charge to evaluate if it fits your projects' needs. Once you decided to use BRFv4 in your project, contact Taskenkunst for a commercial license: [http://www.tastenkunst.com/#/contact](http://www.tastenkunst.com/#/contact)
@@ -459,6 +465,36 @@ The following events are still being used but will be deprecated after the (show
 
 ---
 
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="https://github.com/labofoz/handsfree.js/graphs/contributors"><img src="https://opencollective.com/handsfreejs/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/handsfreejs#backer)]
+
+<a href="https://opencollective.com/handsfreejs#backers" target="_blank"><img src="https://opencollective.com/handsfreejs/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/handsfreejs#sponsor)]
+
+<a href="https://opencollective.com/handsfreejs/sponsor/0/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/1/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/2/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/3/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/4/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/5/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/6/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/7/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/8/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/handsfreejs/sponsor/9/website" target="_blank"><img src="https://opencollective.com/handsfreejs/sponsor/9/avatar.svg"></a>
+
+
+
 # More coming soon
 
 - [@Labofoz](https://twitter.com/labofoz)
@@ -468,3 +504,5 @@ The following events are still being used but will be deprecated after the (show
 **March 4th 2018**: https://twitter.com/LabOfOz/status/970556829125165056
 
 ![](https://media.giphy.com/media/4HvjGXt2Jjwz5LG71Z/giphy.gif)
+
+
